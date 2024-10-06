@@ -152,7 +152,7 @@ p {
 /* Collapse animation for when the item is being deleted */
 @keyframes collapse {
   0% {
-    height: auto;
+    height: 50px;
     opacity: 1;
     padding: 14px;
     margin: 0;
